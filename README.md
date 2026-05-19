@@ -1,6 +1,6 @@
 # SmartIrriga
 
-Sistema automatizado de irrigação para hortas urbanas utilizando Arduino Uno, sensor de umidade do solo, módulo relé e comunicação MQTT via HiveMQ.
+Sistema automatizado de irrigação para hortas urbanas utilizando ESP32, sensor de umidade do solo, módulo relé e comunicação MQTT via HiveMQ.
 
 ## Objetivo
 
