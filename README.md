@@ -8,7 +8,7 @@ O projeto tem como objetivo automatizar o processo de irrigação em hortas urba
 
 ## Funcionamento
 
-O sistema realiza a leitura da umidade do solo por meio de um sensor conectado ao ESP32. Quando a umidade fica abaixo do valor definido, o Arduino aciona o módulo relé, responsável por ativar a bomba de água.
+O sistema realiza a leitura da umidade do solo por meio de um sensor conectado ao ESP32. Quando a umidade fica abaixo do valor definido, o ESP32 aciona o módulo relé, responsável por ativar a bomba de água.
 
 Além do funcionamento automático, o sistema utiliza o protocolo MQTT para envio de dados e controle remoto da irrigação utilizando o broker HiveMQ.
 
