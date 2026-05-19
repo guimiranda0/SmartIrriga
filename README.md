@@ -14,11 +14,10 @@ Além do funcionamento automático, o sistema utiliza o protocolo MQTT para envi
 
 ## Componentes Utilizados
 
-- Arduino Uno
+- ESP32
 - Sensor de Umidade do Solo
 - Módulo Relé 5V
 - Mini bomba d’água
-- ESP8266
 - Protoboard
 - Cabos jumper
 
